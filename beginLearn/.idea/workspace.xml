@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="184e72e7-3b3e-469f-b353-4fea93104129" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/beginLearn$matplotlib_2.coverage" NAME="matplotlib_2 Coverage Results" MODIFIED="1529460908067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibtest" />
+    <SUITE FILE_PATH="coverage/beginLearn$placeholdertest.coverage" NAME="placeholdertest Coverage Results" MODIFIED="1530502327261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/test" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_TesorBorad_2__1_.coverage" NAME="t_TesorBorad_2 (1) Coverage Results" MODIFIED="1530082384351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/regression" />
+    <SUITE FILE_PATH="coverage/beginLearn$removedir.coverage" NAME="removedir Coverage Results" MODIFIED="1532411345900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class2" />
+    <SUITE FILE_PATH="coverage/beginLearn$a2.coverage" NAME="a2 Coverage Results" MODIFIED="1529477943704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorfw" />
+    <SUITE FILE_PATH="coverage/beginLearn$pandas_learn.coverage" NAME="pandas_learn Coverage Results" MODIFIED="1531386349236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class1" />
+    <SUITE FILE_PATH="coverage/beginLearn$pandasdemo.coverage" NAME="pandasdemo Coverage Results" MODIFIED="1532401908841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class2" />
+    <SUITE FILE_PATH="coverage/beginLearn$multiproc.coverage" NAME="multiproc Coverage Results" MODIFIED="1529379039022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
+    <SUITE FILE_PATH="coverage/beginLearn$tensor_placeholder.coverage" NAME="tensor_placeholder Coverage Results" MODIFIED="1529659720854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorfw" />
+    <SUITE FILE_PATH="coverage/beginLearn$t7.coverage" NAME="t7 Coverage Results" MODIFIED="1529911650376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibtest" />
+    <SUITE FILE_PATH="coverage/beginLearn$testplt.coverage" NAME="testplt Coverage Results" MODIFIED="1531215351497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/p4" />
+    <SUITE FILE_PATH="coverage/beginLearn$t4.coverage" NAME="t4 Coverage Results" MODIFIED="1533008572466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$Scattertest.coverage" NAME="Scattertest Coverage Results" MODIFIED="1529465719593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibtest" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_result_visualization.coverage" NAME="t_result_visualization Coverage Results" MODIFIED="1530072982593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten" />
+    <SUITE FILE_PATH="coverage/beginLearn$matplotlib_test.coverage" NAME="matplotlib_test Coverage Results" MODIFIED="1529460512985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibtest" />
+    <SUITE FILE_PATH="coverage/beginLearn$t1__1_.coverage" NAME="t1 (1) Coverage Results" MODIFIED="1531204001927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/p4" />
+    <SUITE FILE_PATH="coverage/beginLearn$g3.coverage" NAME="g3 Coverage Results" MODIFIED="1530772486513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/pack" />
+    <SUITE FILE_PATH="coverage/beginLearn$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1532505462584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1529377438854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
+    <SUITE FILE_PATH="coverage/beginLearn$py_lambda.coverage" NAME="py_lambda Coverage Results" MODIFIED="1530856976261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/pack" />
+    <SUITE FILE_PATH="coverage/beginLearn$g1.coverage" NAME="g1 Coverage Results" MODIFIED="1530771184582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/pack" />
+    <SUITE FILE_PATH="coverage/beginLearn$a.coverage" NAME="a Coverage Results" MODIFIED="1529477394375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorfw" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_classification_1.coverage" NAME="t_classification_1 Coverage Results" MODIFIED="1530503061940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/Classification" />
+    <SUITE FILE_PATH="coverage/beginLearn$t5.coverage" NAME="t5 Coverage Results" MODIFIED="1532672367692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_cnn.coverage" NAME="t_cnn Coverage Results" MODIFIED="1530693613392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/test" />
+    <SUITE FILE_PATH="coverage/beginLearn$mat_Annotation.coverage" NAME="mat_Annotation Coverage Results" MODIFIED="1529465402686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibtest" />
+    <SUITE FILE_PATH="coverage/beginLearn$idfunc.coverage" NAME="idfunc Coverage Results" MODIFIED="1529375630000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pkg" />
+    <SUITE FILE_PATH="coverage/beginLearn$use_tensflow.coverage" NAME="use_tensflow Coverage Results" MODIFIED="1530862624384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/package2" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_tensorboard.coverage" NAME="t_tensorboard Coverage Results" MODIFIED="1530078541158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten" />
+    <SUITE FILE_PATH="coverage/beginLearn$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1532422631911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$mat_3.coverage" NAME="mat_3 Coverage Results" MODIFIED="1529461526592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibtest" />
+    <SUITE FILE_PATH="coverage/beginLearn$tf1.coverage" NAME="tf1 Coverage Results" MODIFIED="1531387429939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class1" />
+    <SUITE FILE_PATH="coverage/beginLearn$pyQueue.coverage" NAME="pyQueue Coverage Results" MODIFIED="1528964213634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threadT" />
+    <SUITE FILE_PATH="coverage/beginLearn$pandas_concat.coverage" NAME="pandas_concat Coverage Results" MODIFIED="1529401740358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandastest" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_mnist.coverage" NAME="t_mnist Coverage Results" MODIFIED="1530691833542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/test" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_place_holder.coverage" NAME="t_place_holder Coverage Results" MODIFIED="1530064427254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_merge.coverage" NAME="numpy_merge Coverage Results" MODIFIED="1529389833493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$t6.coverage" NAME="t6 Coverage Results" MODIFIED="1529464965614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlibtest" />
+    <SUITE FILE_PATH="coverage/beginLearn$logic_regression.coverage" NAME="logic_regression Coverage Results" MODIFIED="1533001140477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$pyjoin.coverage" NAME="pyjoin Coverage Results" MODIFIED="1528963146211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threadT" />
+    <SUITE FILE_PATH="coverage/beginLearn$save_tensor.coverage" NAME="save_tensor Coverage Results" MODIFIED="1531273305770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/mofan" />
+    <SUITE FILE_PATH="coverage/beginLearn$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1533008507017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$use_tensorflow2.coverage" NAME="use_tensorflow2 Coverage Results" MODIFIED="1530862407719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/pack" />
+    <SUITE FILE_PATH="coverage/beginLearn$test.coverage" NAME="test Coverage Results" MODIFIED="1532594840050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$g2.coverage" NAME="g2 Coverage Results" MODIFIED="1530770558758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/pack" />
+    <SUITE FILE_PATH="coverage/beginLearn$tensor_flow_dataset.coverage" NAME="tensor_flow_dataset Coverage Results" MODIFIED="1530859189098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/package2" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_TesorBorad_2.coverage" NAME="t_TesorBorad_2 Coverage Results" MODIFIED="1530080408604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_activation_func.coverage" NAME="t_activation_func Coverage Results" MODIFIED="1530069495879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten" />
+    <SUITE FILE_PATH="coverage/beginLearn$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1533022528799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_newaxis.coverage" NAME="numpy_newaxis Coverage Results" MODIFIED="1529390240892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_arraysplit.coverage" NAME="numpy_arraysplit Coverage Results" MODIFIED="1529390367825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$mnist_test.coverage" NAME="mnist_test Coverage Results" MODIFIED="1531366696247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/mofan" />
+    <SUITE FILE_PATH="coverage/beginLearn$pandasdemo2.coverage" NAME="pandasdemo2 Coverage Results" MODIFIED="1532401160386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class2" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_assignment.coverage" NAME="numpy_assignment Coverage Results" MODIFIED="1529390912783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$t2__1_.coverage" NAME="t2 (1) Coverage Results" MODIFIED="1531215956290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/p4" />
+    <SUITE FILE_PATH="coverage/beginLearn$g4.coverage" NAME="g4 Coverage Results" MODIFIED="1530772710641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/pack" />
+    <SUITE FILE_PATH="coverage/beginLearn$g1__1_.coverage" NAME="g1 (1) Coverage Results" MODIFIED="1530776063375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/package2" />
+    <SUITE FILE_PATH="coverage/beginLearn$load_tensor.coverage" NAME="load_tensor Coverage Results" MODIFIED="1531273690488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/mofan" />
+    <SUITE FILE_PATH="coverage/beginLearn$sparsity_regularization.coverage" NAME="sparsity_regularization Coverage Results" MODIFIED="1533013710024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$g2__1_.coverage" NAME="g2 (1) Coverage Results" MODIFIED="1530776112778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/package2" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_arithmetic.coverage" NAME="numpy_arithmetic Coverage Results" MODIFIED="1529387814344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$tuple_list.coverage" NAME="tuple_list Coverage Results" MODIFIED="1528961520028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pkg" />
+    <SUITE FILE_PATH="coverage/beginLearn$use_tensorflow2__1_.coverage" NAME="use_tensorflow2 (1) Coverage Results" MODIFIED="1530863433740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/google.tensorflow/package2" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_arithmetic_2.coverage" NAME="numpy_arithmetic_2 Coverage Results" MODIFIED="1529388444767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$normalization_features.coverage" NAME="normalization_features Coverage Results" MODIFIED="1533086441839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googleclass/class3" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_arithmetic_3.coverage" NAME="numpy_arithmetic_3 Coverage Results" MODIFIED="1529388962651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$t_overfitting.coverage" NAME="t_overfitting Coverage Results" MODIFIED="1530499471939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ten/overfitting" />
+    <SUITE FILE_PATH="coverage/beginLearn$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1529377542749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
+    <SUITE FILE_PATH="coverage/beginLearn$numpy_index.coverage" NAME="numpy_index Coverage Results" MODIFIED="1529389459318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpytest" />
+    <SUITE FILE_PATH="coverage/beginLearn$tensor_verible.coverage" NAME="tensor_verible Coverage Results" MODIFIED="1529478626752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorfw" />
+    <SUITE FILE_PATH="coverage/beginLearn$tensorfw_variable.coverage" NAME="tensorfw_variable Coverage Results" MODIFIED="1529659425950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorfw2" />
+    <SUITE FILE_PATH="coverage/beginLearn$pythread.coverage" NAME="pythread Coverage Results" MODIFIED="1528962818842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pkg" />
+    <SUITE FILE_PATH="coverage/beginLearn$tensorfw_activation.coverage" NAME="tensorfw_activation Coverage Results" MODIFIED="1529905955179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorfw2" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1328182796">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="checkpoint" value="1" />
+          <entry key="csv" value="37" />
+          <entry key="py" value="161" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="Python" value="161" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="24321" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="24321" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/googleclass/class3/normalization_features.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#1214#1376#0" />
+                <element signature="e#1705#2024#0" />
+                <element signature="e#5459#6336#0" />
+                <marker date="1533086274755" expanded="true" signature="681:682" ph="..." />
+                <marker date="1533086274755" expanded="true" signature="1219:1224" ph="..." />
+                <marker date="1533086274755" expanded="true" signature="4888:5048" ph="..." />
+                <marker date="1533086274755" expanded="true" signature="6420:6972" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/googleclass/class3/neural_network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="171" column="28" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+                <marker date="1533022572548" expanded="true" signature="2747:5820" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>session</find>
+      <find>Session</find>
+      <find>mnist</find>
+      <find>predictions</find>
+      <find>california_housing_dataframe</find>
+      <find>linear_regressor</find>
+      <find>median_house_value</find>
+      <find>318</find>
+      <find>3185</find>
+      <find>training_examples</find>
+      <find>Python</find>
+      <find>python</find>
+      <find>scipy</find>
+      <find>my_input_fn</find>
+      <find>target</find>
+      <find>LinearRegressor</find>
+      <find>numeric_column</find>
+      <find>[item[&quot;predictions&quot;]</find>
+      <find>item['predictions']</find>
+      <find>item[&quot;predictions&quot;]</find>
+      <find>preprocess_targets</find>
+      <find>return</find>
+      <find>preprocess_features</find>
+      <find>construct_feature_columns</find>
+      <find>estimator.clip_gradients_by_norm</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ten/regression/t_TesorBorad_2.py" />
+        <option value="$PROJECT_DIR$/ten/overfitting/test.py" />
+        <option value="$PROJECT_DIR$/ten/overfitting/t_overfitting.py" />
+        <option value="$PROJECT_DIR$/ten/Classification/t_cnn.py" />
+        <option value="$PROJECT_DIR$/ten/test/t1.py" />
+        <option value="$PROJECT_DIR$/ten/test/t2.py" />
+        <option value="$PROJECT_DIR$/ten/test/placeholdertest.py" />
+        <option value="$PROJECT_DIR$/ten/Classification/t_classification_1.py" />
+        <option value="$PROJECT_DIR$/ten/test/t_mnist.py" />
+        <option value="$PROJECT_DIR$/ten/test/t_cnn.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/pack/g2.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/pack/g1.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/pack/g3.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/pack/g4.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/package2/g1.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/package2/g2.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/package2/test.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/package2/tensor_flow.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/pack/py_lambda.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/package2/tensor_flow_dataset.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/package2/use_tensflow.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/pack/use_tensorflow2.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/package2/use_tensorflow2.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p3/t1.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p3/t2.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p1.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p4/t1.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p4/她.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p4/testplt.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p4/t2.py" />
+        <option value="$PROJECT_DIR$/ten/google.tensorflow/p4/t3.py" />
+        <option value="$PROJECT_DIR$/ten/mofan/load_tensor.py" />
+        <option value="$PROJECT_DIR$/ten/mofan/mnist_test.py" />
+        <option value="$PROJECT_DIR$/ten/mofan/save_tensor.py" />
+        <option value="$PROJECT_DIR$/googleclass/class1/pandas_learn.py" />
+        <option value="$PROJECT_DIR$/googleclass/class1/tf1.py" />
+        <option value="$PROJECT_DIR$/googleclass/class2/pandasdemo2.py" />
+        <option value="$PROJECT_DIR$/googleclass/class2/pandasdemo.py" />
+        <option value="$PROJECT_DIR$/googleclass/class2/removedir.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/t2.py" />
+        <option value="$PROJECT_DIR$/Sharedmemory/sha1.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/t3.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/test.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/t1.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/t5.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/t6.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/logic_regression.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/t4.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/sparsity_regularization.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/neural_network.py" />
+        <option value="$PROJECT_DIR$/googleclass/class3/normalization_features.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="594" />
+    <option name="y" value="36" />
+    <option name="width" value="1269" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="beginLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beginLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beginLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beginLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="googleclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beginLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beginLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="googleclass" type="462c0819:PsiDirectoryNode" />
+              <item name="class3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="t7&#9;FILE&#9;file://F:/IDE/PyCharm/Project/Test/beginLearn/matplotlibtest/t7.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\googleclass\class3" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\ten\mofan\MNIST_data" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\ten\google.tensorflow\p3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\ten\google.tensorflow\package2" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\ten\regression" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\ten" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\pandastest" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\threadT" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.normalization_features">
+    <configuration name="neural_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beginLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/googleclass/class3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/googleclass/class3/neural_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="normalization_features" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beginLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/googleclass/class3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/googleclass/class3/normalization_features.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sparsity_regularization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beginLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/googleclass/class3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/googleclass/class3/sparsity_regularization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beginLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/googleclass/class3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/googleclass/class3/t3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="beginLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/googleclass/class3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/googleclass/class3/t4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.t4" />
+      <item itemvalue="Python.sparsity_regularization" />
+      <item itemvalue="Python.t3" />
+      <item itemvalue="Python.neural_network" />
+      <item itemvalue="Python.normalization_features" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.normalization_features" />
+        <item itemvalue="Python.neural_network" />
+        <item itemvalue="Python.sparsity_regularization" />
+        <item itemvalue="Python.t4" />
+        <item itemvalue="Python.t3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="184e72e7-3b3e-469f-b353-4fea93104129" name="Default" comment="" />
+      <created>1528961145193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528961145193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22236504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32684284" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49636805" weight="0.36015326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.51878613" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50363195" side_tool="true" weight="0.32326284" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3290938" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32750398" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.5514139" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32455012" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22249793" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32684284" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49636805" visible="true" weight="0.28650904" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.51878613" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50363195" side_tool="true" weight="0.32326284" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3290938" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32750398" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.41935483" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32506204" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="features['total_rooms'].__internals__['ctypes']" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/package2/g2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/package2/g1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/pandas/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/p4/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/p4/她.py" />
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/p4/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="3111" column="47" selection-start-line="3111" selection-start-column="47" selection-end-line="3111" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/p4/california_housing.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="99" selection-start-column="99" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1634051385/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4472" column="8" selection-start-line="4472" selection-start-column="8" selection-end-line="4472" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/p4/testplt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/p4/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/google.tensorflow/p4/t3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/mofan/my_net/checkpoint">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="248" column="20" selection-start-line="248" selection-start-column="20" selection-end-line="248" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/mofan/mnist_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/mofan/load_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ten/mofan/save_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/pandas/_version.py" />
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/pandas/core/frame.py" />
+    <entry file="file://$PROJECT_DIR$/googleclass/class1/california_housing_dataframe.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class1/tf1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="48" column="47" lean-forward="true" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1531388808746" expanded="false" signature="318:319" ph="..." />
+            <marker date="1531388808746" expanded="true" signature="692:693" ph="..." />
+            <marker date="1531388808746" expanded="true" signature="1536:1541" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class1/pandas_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class2/data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class2/pandasdemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class2/removedir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1532411386319" expanded="true" signature="89:134" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class2/pandasdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/ops/clip_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/sklearn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sharedmemory/sha1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/feature_column/feature_column.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="2319" column="27" selection-start-line="2319" selection-start-column="27" selection-end-line="2319" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="78" column="51" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/t5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="192" column="33" selection-start-line="192" selection-start-column="33" selection-end-line="192" selection-end-column="33" />
+          <folding>
+            <element signature="e#684#1157#0" />
+            <element signature="e#724#902#0" />
+            <element signature="e#1216#1276#0" />
+            <element signature="e#1610#1929#0" />
+            <marker date="1532672365697" expanded="true" signature="680:681" ph="..." />
+            <marker date="1532672365697" expanded="false" signature="1210:1211" ph="..." />
+            <marker date="1532672365697" expanded="true" signature="2142:4779" ph="..." />
+            <marker date="1532672365697" expanded="true" signature="4532:4768" ph="..." />
+            <marker date="1532672365697" expanded="true" signature="4767:4768" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/t6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/sklearn/metrics/regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/logic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="184" column="68" lean-forward="true" selection-start-line="184" selection-start-column="68" selection-end-line="184" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1533001139019" expanded="true" signature="643:1167" ph="..." />
+            <marker date="1533001139019" expanded="true" signature="5055:8279" ph="..." />
+            <marker date="1533001139019" expanded="true" signature="8614:8906" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/estimator/estimator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="553" column="36" selection-start-line="553" selection-start-column="36" selection-end-line="553" selection-end-column="36" />
+          <folding>
+            <element signature="e#20319#22504#1" />
+            <element signature="e#24660#24906#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/data/ops/dataset_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="230" column="6" selection-start-line="230" selection-start-column="6" selection-end-line="230" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1532658146402" expanded="true" signature="1570:1575" ph="..." />
+            <marker date="1532658146402" expanded="true" signature="1570:1988" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/t3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1485">
+          <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1532511619316" expanded="false" signature="770:775" ph="..." />
+            <marker date="1532511619316" expanded="true" signature="1189:1503" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="3816" column="4" selection-start-line="3816" selection-start-column="4" selection-end-line="3816" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/t4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="190" column="29" lean-forward="true" selection-start-line="190" selection-start-column="29" selection-end-line="190" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1533008701830" expanded="true" signature="686:691" ph="..." />
+            <marker date="1533008701830" expanded="true" signature="1281:1282" ph="..." />
+            <marker date="1533008701830" expanded="true" signature="1717:4944" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/sparsity_regularization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="203" column="14" lean-forward="true" selection-start-line="203" selection-start-column="14" selection-end-line="203" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#811#1277#0" />
+            <element signature="e#2167#2642#0" />
+            <element signature="e#3221#3368#0" />
+            <element signature="e#3736#6168#0" />
+            <element signature="e#5999#6375#0" />
+            <marker date="1533013932468" expanded="false" signature="1299:1304" ph="..." />
+            <marker date="1533013932468" expanded="true" signature="8753:8754" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/data2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/testdata.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/util/lazy_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="578" column="15" lean-forward="true" selection-start-line="578" selection-start-column="15" selection-end-line="578" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="171" column="28" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1533022572548" expanded="true" signature="2747:5820" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleclass/class3/normalization_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#1214#1376#0" />
+            <element signature="e#1705#2024#0" />
+            <element signature="e#5459#6336#0" />
+            <marker date="1533086274755" expanded="true" signature="681:682" ph="..." />
+            <marker date="1533086274755" expanded="true" signature="1219:1224" ph="..." />
+            <marker date="1533086274755" expanded="true" signature="4888:5048" ph="..." />
+            <marker date="1533086274755" expanded="true" signature="6420:6972" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

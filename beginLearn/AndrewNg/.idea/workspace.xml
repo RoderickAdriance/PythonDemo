@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a12d1d6-a8be-4ce4-a8dd-bb261e01a3cc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AndrewNg$load_model.coverage" NAME="load_model Coverage Results" MODIFIED="1536745561367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c13" />
+    <SUITE FILE_PATH="coverage/AndrewNg$planar_utils.coverage" NAME="planar_utils Coverage Results" MODIFIED="1534138972642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day04" />
+    <SUITE FILE_PATH="coverage/AndrewNg$t.coverage" NAME="t Coverage Results" MODIFIED="1534313069442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c5" />
+    <SUITE FILE_PATH="coverage/AndrewNg$run_func.coverage" NAME="run_func Coverage Results" MODIFIED="1535505813941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c9" />
+    <SUITE FILE_PATH="coverage/AndrewNg$nerual_network.coverage" NAME="nerual_network Coverage Results" MODIFIED="1534235536071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day04" />
+    <SUITE FILE_PATH="coverage/AndrewNg$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1535617261530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c10/tensortest" />
+    <SUITE FILE_PATH="coverage/AndrewNg$dropout.coverage" NAME="dropout Coverage Results" MODIFIED="1533893717507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day02" />
+    <SUITE FILE_PATH="coverage/AndrewNg$help_function.coverage" NAME="help_function Coverage Results" MODIFIED="1534753381188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c6" />
+    <SUITE FILE_PATH="coverage/AndrewNg$Keras_demo.coverage" NAME="Keras_demo Coverage Results" MODIFIED="1536744569719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c13" />
+    <SUITE FILE_PATH="coverage/AndrewNg$help_func__1_.coverage" NAME="help_func (1) Coverage Results" MODIFIED="1535426452821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c8" />
+    <SUITE FILE_PATH="coverage/AndrewNg$Initialization_parameters.coverage" NAME="Initialization_parameters Coverage Results" MODIFIED="1535103332858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c7" />
+    <SUITE FILE_PATH="coverage/AndrewNg$handle_image.coverage" NAME="handle_image Coverage Results" MODIFIED="1535012017297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c2" />
+    <SUITE FILE_PATH="coverage/AndrewNg$runfunc.coverage" NAME="runfunc Coverage Results" MODIFIED="1535106098569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c2" />
+    <SUITE FILE_PATH="coverage/AndrewNg$picture_recognition.coverage" NAME="picture_recognition Coverage Results" MODIFIED="1534151977034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day03" />
+    <SUITE FILE_PATH="coverage/AndrewNg$a.coverage" NAME="a Coverage Results" MODIFIED="1535001532143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c6" />
+    <SUITE FILE_PATH="coverage/AndrewNg$rand.coverage" NAME="rand Coverage Results" MODIFIED="1535507927755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c9" />
+    <SUITE FILE_PATH="coverage/AndrewNg$help_func.coverage" NAME="help_func Coverage Results" MODIFIED="1535102835661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c7" />
+    <SUITE FILE_PATH="coverage/AndrewNg$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1535616233849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/tensortest" />
+    <SUITE FILE_PATH="coverage/AndrewNg$init_utils.coverage" NAME="init_utils Coverage Results" MODIFIED="1535102347403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c7" />
+    <SUITE FILE_PATH="coverage/AndrewNg$andrew_ngcode.coverage" NAME="andrew_ngcode Coverage Results" MODIFIED="1536627821626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c12" />
+    <SUITE FILE_PATH="coverage/AndrewNg$L_layer_neural_network.coverage" NAME="L_layer_neural_network Coverage Results" MODIFIED="1535097210901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c6" />
+    <SUITE FILE_PATH="coverage/AndrewNg$sigmoidfunc.coverage" NAME="sigmoidfunc Coverage Results" MODIFIED="1533886090616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day02" />
+    <SUITE FILE_PATH="coverage/AndrewNg$runfile.coverage" NAME="runfile Coverage Results" MODIFIED="1536309071024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c11" />
+    <SUITE FILE_PATH="coverage/AndrewNg$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1535678378848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c10/tensortest" />
+    <SUITE FILE_PATH="coverage/AndrewNg$deep_neural_network.coverage" NAME="deep_neural_network Coverage Results" MODIFIED="1534753842825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c5" />
+    <SUITE FILE_PATH="coverage/AndrewNg$tensor_model.coverage" NAME="tensor_model Coverage Results" MODIFIED="1536730422526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c12" />
+    <SUITE FILE_PATH="coverage/AndrewNg$image_classfication.coverage" NAME="image_classfication Coverage Results" MODIFIED="1535094543350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c6" />
+    <SUITE FILE_PATH="coverage/AndrewNg$lr_utils.coverage" NAME="lr_utils Coverage Results" MODIFIED="1533882427052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day02" />
+    <SUITE FILE_PATH="coverage/AndrewNg$opt_utils.coverage" NAME="opt_utils Coverage Results" MODIFIED="1535505798817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c9" />
+    <SUITE FILE_PATH="coverage/AndrewNg$test_image.coverage" NAME="test_image Coverage Results" MODIFIED="1534211635147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day04" />
+    <SUITE FILE_PATH="coverage/AndrewNg$data_set.coverage" NAME="data_set Coverage Results" MODIFIED="1534122965439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day03" />
+    <SUITE FILE_PATH="coverage/AndrewNg$L1_lossfunc.coverage" NAME="L1_lossfunc Coverage Results" MODIFIED="1533871098590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day01" />
+    <SUITE FILE_PATH="coverage/AndrewNg$tensor_network.coverage" NAME="tensor_network Coverage Results" MODIFIED="1536309765853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/c10/tensortest" />
+    <SUITE FILE_PATH="coverage/AndrewNg$helpfunc.coverage" NAME="helpfunc Coverage Results" MODIFIED="1533896594052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercise/day02" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1918762163">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="2" />
+          <entry key="jpg" value="37" />
+          <entry key="py" value="206" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="2" />
+          <entry key="Image" value="37" />
+          <entry key="Python" value="206" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="py" value="22138" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="22138" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AndrewNg" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise/c14/ResNets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1536746689137" expanded="true" signature="772:773" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>209</find>
+      <find>sigmo</find>
+      <find>linear</find>
+      <find>update_parameters</find>
+      <find>showim</find>
+      <find>cost_</find>
+      <find>compute_cost</find>
+      <find>l</find>
+      <find>plot</find>
+      <find>plt</find>
+      <find>X = tf.placeholder(tf.float32, shape=[None, n_H0, n_W0, n_C0])</find>
+      <find>initialize_parameters</find>
+      <find>filter</find>
+      <find>Using TensorFlow backend</find>
+      <find>process</find>
+      <find>inputs</find>
+      <find>processinput</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>str(l+1)</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/ml/吴恩达/deeplearning.ai_JupyterNotebooks-master/1_NeuralNetwork&amp;DeepLearning/Week2/笔记版-Logistic+Regression+with+a+Neural+Network+mindset+v3.ipynb" />
+        <option value="$PROJECT_DIR$/exercise/day02/dropout.py" />
+        <option value="$PROJECT_DIR$/exercise/day02/t1.py" />
+        <option value="$PROJECT_DIR$/exercise/day02/runfunc.py" />
+        <option value="$PROJECT_DIR$/exercise/day02/helpfunc.py" />
+        <option value="$PROJECT_DIR$/exercise/day03/data_set.py" />
+        <option value="$PROJECT_DIR$/exercise/day03/help_func.py" />
+        <option value="D:/ml/吴恩达/deeplearning.ai_JupyterNotebooks-master/1_NeuralNetwork&amp;DeepLearning/Week3/Planar+data+classification+with+one+hidden+layer+v3.ipynb" />
+        <option value="$PROJECT_DIR$/exercise/day04/planar_utils.py" />
+        <option value="$PROJECT_DIR$/exercise/day03/picture_recognition.py" />
+        <option value="$PROJECT_DIR$/exercise/day04/test_image.py" />
+        <option value="$PROJECT_DIR$/exercise/day04/help_func2.py" />
+        <option value="$PROJECT_DIR$/exercise/day04/help_func.py" />
+        <option value="$PROJECT_DIR$/exercise/day04/nerual_network.py" />
+        <option value="$PROJECT_DIR$/exercise/c4/nerual_network.py" />
+        <option value="$PROJECT_DIR$/exercise/c5/t.py" />
+        <option value="$PROJECT_DIR$/exercise/c6/deep_neural_network.py" />
+        <option value="$PROJECT_DIR$/exercise/c6/help_function.py" />
+        <option value="$PROJECT_DIR$/exercise/c5/deep_neural_network.py" />
+        <option value="$PROJECT_DIR$/exercise/c5/help_func.py" />
+        <option value="$PROJECT_DIR$/exercise/c2/L_layer_network.py" />
+        <option value="$PROJECT_DIR$/exercise/c6/a.py" />
+        <option value="$PROJECT_DIR$/exercise/c2/helpfunc.py" />
+        <option value="$PROJECT_DIR$/exercise/c2/t1.py" />
+        <option value="$PROJECT_DIR$/exercise/c2/handle_image.py" />
+        <option value="$PROJECT_DIR$/exercise/c6/image_classfication.py" />
+        <option value="$PROJECT_DIR$/exercise/c6/dnn_app_utils_v2.py" />
+        <option value="$PROJECT_DIR$/exercise/c6/help_func.py" />
+        <option value="$PROJECT_DIR$/exercise/c6/L_layer_neural_network.py" />
+        <option value="$PROJECT_DIR$/exercise/c7/help_func.py" />
+        <option value="$PROJECT_DIR$/exercise/c7/init_utils.py" />
+        <option value="$PROJECT_DIR$/exercise/c7/Initialization_parameters.py" />
+        <option value="$PROJECT_DIR$/exercise/c2/runfunc.py" />
+        <option value="$PROJECT_DIR$/exercise/c8/help_func.py" />
+        <option value="$PROJECT_DIR$/exercise/c9/opt_utils.py" />
+        <option value="$PROJECT_DIR$/exercise/c9/rand.py" />
+        <option value="$PROJECT_DIR$/exercise/c9/run_func.py" />
+        <option value="$PROJECT_DIR$/exercise/tensortest/t1.py" />
+        <option value="$PROJECT_DIR$/exercise/c10/tensortest/t2.py" />
+        <option value="$PROJECT_DIR$/exercise/c10/tensortest/t3.py" />
+        <option value="$PROJECT_DIR$/exercise/c10/tensortest/tf_utils.py" />
+        <option value="$PROJECT_DIR$/exercise/c10/tensortest/my_pic.py" />
+        <option value="$PROJECT_DIR$/exercise/c10/tensortest/tensor_network.py" />
+        <option value="$PROJECT_DIR$/exercise/c11/runfile.py" />
+        <option value="$PROJECT_DIR$/exercise/c12/andrew_ngcode.py" />
+        <option value="$PROJECT_DIR$/exercise/c12/cnn_utils.py" />
+        <option value="$PROJECT_DIR$/exercise/c12/tensor_model.py" />
+        <option value="$PROJECT_DIR$/exercise/c13/Keras_demo.py" />
+        <option value="F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/applications/imagenet_utils.py" />
+        <option value="$PROJECT_DIR$/exercise/c13/load_model.py" />
+        <option value="$PROJECT_DIR$/exercise/c14/ResNets.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="453" />
+    <option name="y" value="29" />
+    <option name="width" value="1153" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AndrewNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndrewNg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndrewNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndrewNg" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AndrewNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AndrewNg" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="c14" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="python.debugger.dataview.coloredbydefault" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\AndrewNg\exercise\c14" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\AndrewNg\exercise\c13\images" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\AndrewNg\exercise\c13" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\AndrewNg\exercise\c12\images" />
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\AndrewNg\exercise\c12" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDE\PyCharm\Project\Test\beginLearn\AndrewNg\exercise\c10" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.load_model">
+    <configuration name="Keras_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AndrewNg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise/c13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/c13/Keras_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="andrew_ngcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AndrewNg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise/c12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/c12/andrew_ngcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AndrewNg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise/c13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/c13/load_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensor_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AndrewNg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise/c12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/c12/tensor_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensor_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AndrewNg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise/c10/tensortest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise/c10/tensortest/tensor_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tensor_network" />
+      <item itemvalue="Python.tensor_model" />
+      <item itemvalue="Python.andrew_ngcode" />
+      <item itemvalue="Python.Keras_demo" />
+      <item itemvalue="Python.load_model" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.load_model" />
+        <item itemvalue="Python.Keras_demo" />
+        <item itemvalue="Python.tensor_model" />
+        <item itemvalue="Python.andrew_ngcode" />
+        <item itemvalue="Python.tensor_network" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a12d1d6-a8be-4ce4-a8dd-bb261e01a3cc" name="Default Changelist" comment="" />
+      <created>1533806956652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533806956652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="453" y="29" width="1153" height="829" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49763033" visible="true" weight="0.19853614" />
+      <window_info id="Structure" order="1" sideWeight="0.50236964" side_tool="true" weight="0.24183583" />
+      <window_info id="Favorites" order="2" sideWeight="0.50236964" side_tool="true" weight="0.24183583" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275862" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6421941" visible="true" weight="0.33189654" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4631579" weight="0.41025642" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32854864" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3578059" side_tool="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32854864" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32695374" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="698" y="119" width="704" height="633" id="SciView" order="3" weight="0.6475196" />
+      <window_info anchor="right" x="0" y="0" width="239" height="560" id="Documentation" order="4" side_tool="true" weight="0.46216956" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32732448" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercise/c7/init_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="144" column="79" lean-forward="true" selection-start-line="144" selection-start-column="79" selection-end-line="144" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c7/help_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c2/runfunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c7/Initialization_parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c8/gc_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c8/help_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="177" column="34" selection-start-line="177" selection-start-column="33" selection-end-line="177" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c8/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c9/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="4273" column="48" selection-start-line="4273" selection-start-column="48" selection-end-line="4273" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/matplotlib/colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c9/rand.py" />
+    <entry file="file://$PROJECT_DIR$/exercise/c10/tensortest/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="41" column="52" lean-forward="true" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c9/opt_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c9/run_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="232" lean-forward="true" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c10/tensortest/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c10/tensortest/my_pic.py" />
+    <entry file="file://$PROJECT_DIR$/exercise/c10/tensortest/images/bizhi.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c10/tensortest/tf_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="105" column="7" lean-forward="true" selection-start-line="105" selection-start-column="7" selection-end-line="105" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c10/tensortest/t3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c11/runfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c10/tensortest/tensor_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3164">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1058" column="53" selection-start-line="1058" selection-start-column="47" selection-end-line="1058" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="4936" selection-start-line="4936" selection-end-line="4936" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c12/andrew_ngcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="154" column="33" selection-start-line="154" selection-start-column="33" selection-end-line="154" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2750">
+          <caret line="2127" column="4" selection-start-line="2127" selection-start-column="4" selection-end-line="2127" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c12/cnn_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c12/tensor_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/engine/base_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1634051385/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="719" column="6" selection-start-line="719" selection-start-column="6" selection-end-line="719" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/engine/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5350">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/backend/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-431">
+          <caret line="149" column="12" selection-start-line="149" selection-start-column="12" selection-end-line="149" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/layers/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="489" selection-start-line="489" selection-end-line="489" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="3184" column="4" selection-start-line="3184" selection-start-column="4" selection-end-line="3184" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/images/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/engine/input_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/utils/vis_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/ProgrammingLanguage/Python/Python/Lib/site-packages/keras/applications/imagenet_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/images/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/images/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/images/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/images/8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/images/7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/load_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/Keras_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c13/kt_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c14/resnets_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/c14/ResNets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1536746689137" expanded="true" signature="772:773" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

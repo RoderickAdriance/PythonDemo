@@ -1,0 +1,389 @@
+{
+  "count": 8,
+  "start": 0,
+  "subject_collection_items": [
+    {
+      "original_price": null,
+      "rating": {
+        "count": 11706,
+        "max": 10,
+        "value": 9.3
+      },
+      "actions": [],
+      "year": "2018",
+      "card_subtitle": "2018 / 美国 / 科幻 西部 / 理查德·J·刘易斯 / 埃文·蕾切尔·伍德 坦迪·牛顿",
+      "recommend_comment": "我出生以来总是觉得有些场景、有些事似曾相识，好像以前发生过，和德洛丽丝的幻觉是一致的。看了《西部世界》，我渐渐对世界产生了怀疑，也渐渐觉醒了自我意识。我终于发现，这个世界是假的，只是提洛公司“西部世界”乐园的一条故事线，我们都是接待员。让我们一起杀出地球，逃离宇宙，做真正的主人！ —— 凌睿大坏蛋的短评",
+      "id": "26887174",
+      "title": "西部世界 第二季",
+      "label": null,
+      "actors": [
+        "埃文·蕾切尔·伍德",
+        "坦迪·牛顿",
+        "詹姆斯·麦斯登"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/26887174",
+        "participant_count": 2863,
+        "uri": "douban://douban.com/tv/26887174/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 科幻 西部 / 理查德·J·刘易斯 / 埃文·蕾切尔·伍德 坦迪·牛顿",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26887174/",
+      "release_date": "04.22",
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2517077652.jpg",
+        "width": 2936,
+        "shape": "rectangle",
+        "height": 4360
+      },
+      "uri": "douban://douban.com/tv/26887174",
+      "subtype": "",
+      "directors": [
+        "理查德·J·刘易斯"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    },
+    {
+      "original_price": null,
+      "rating": {
+        "count": 3603,
+        "max": 10,
+        "value": 9.4
+      },
+      "actions": [],
+      "year": "2018",
+      "card_subtitle": "2018 / 美国 / 剧情 科幻 / 麦克·巴克 / 伊丽莎白·莫斯 阿丽克西斯·布莱德尔",
+      "recommend_comment": "最让人害怕绝望的是总有某些力量把这种警世寓言当成操作指南。 —— Dr.Wonderwho的短评",
+      "id": "27036735",
+      "title": "使女的故事 第二季",
+      "label": null,
+      "actors": [
+        "伊丽莎白·莫斯",
+        "阿丽克西斯·布莱德尔",
+        "乔丹娜·布莱克"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/27036735",
+        "participant_count": 1117,
+        "uri": "douban://douban.com/tv/27036735/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 剧情 科幻 / 麦克·巴克 / 伊丽莎白·莫斯 阿丽克西斯·布莱德尔",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/27036735/",
+      "release_date": "04.25",
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2520829721.jpg",
+        "width": 1027,
+        "shape": "rectangle",
+        "height": 1500
+      },
+      "uri": "douban://douban.com/tv/27036735",
+      "subtype": "",
+      "directors": [
+        "麦克·巴克"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    },
+    {
+      "original_price": null,
+      "rating": {
+        "count": 459,
+        "max": 10,
+        "value": 9.3
+      },
+      "actions": [],
+      "year": "2018",
+      "card_subtitle": "2018 / 美国 / 剧情 犯罪 悬疑 / 克里斯汀·摩尔 约翰·波尔森 约翰尼·李·米勒 塞斯·曼恩 刘玉玲 Ron Fortunato / 约翰尼·李·米勒 刘玉玲",
+      "recommend_comment": "等了一年多終於回歸！看著第一集的米福有些心疼，但是福華的抱抱很甜！期待後面！ —— 清如玉壶冰的短评",
+      "id": "27043263",
+      "title": "福尔摩斯：基本演绎法 第六季",
+      "label": null,
+      "actors": [
+        "约翰尼·李·米勒",
+        "刘玉玲",
+        "乔恩·迈克尔·希尔"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/27043263",
+        "participant_count": 124,
+        "uri": "douban://douban.com/tv/27043263/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 剧情 犯罪 悬疑 / 克里斯汀·摩尔 / 约翰尼·李·米勒 刘玉玲",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/27043263/",
+      "release_date": "04.30",
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2382097744.jpg",
+        "width": 666,
+        "shape": "rectangle",
+        "height": 1000
+      },
+      "uri": "douban://douban.com/tv/27043263",
+      "subtype": "",
+      "directors": [
+        "克里斯汀·摩尔"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    },
+    {
+      "original_price": null,
+      "rating": {
+        "count": 3605,
+        "max": 10,
+        "value": 8.8
+      },
+      "actions": [],
+      "year": "2018",
+      "card_subtitle": "2018 / 美国 / 惊悚 / 荣·伊斯特 达蒙·托马斯 哈利·布拉德比尔 / 吴珊卓 朱迪·科默",
+      "recommend_comment": "excuse me，女主是平胸？？C cup了好吗 —— addict_who的短评",
+      "id": "26915602",
+      "title": "杀死伊芙 第一季",
+      "label": null,
+      "actors": [
+        "吴珊卓",
+        "朱迪·科默",
+        "费奥纳·肖"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/26915602",
+        "participant_count": 746,
+        "uri": "douban://douban.com/tv/26915602/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 惊悚 / 荣·伊斯特 / 吴珊卓 朱迪·科默",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26915602/",
+      "release_date": "04.08",
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2517103319.jpg",
+        "width": 720,
+        "shape": "rectangle",
+        "height": 1067
+      },
+      "uri": "douban://douban.com/tv/26915602",
+      "subtype": "",
+      "directors": [
+        "荣·伊斯特"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    },
+    {
+      "original_price": null,
+      "rating": {
+        "count": 9452,
+        "max": 10,
+        "value": 9.5
+      },
+      "actions": [],
+      "year": "2018",
+      "card_subtitle": "2018 / 美国 / 剧情 / 吉姆·麦凯 小詹姆斯·惠特摩 / 克里斯汀·芭伦斯基 库什·珍宝",
+      "recommend_comment": "值得沐浴熏香, 关上手机，排除一切干扰后才开始看的剧 —— chocobo的短评",
+      "id": "26997533",
+      "title": "傲骨之战 第二季",
+      "label": null,
+      "actors": [
+        "克里斯汀·芭伦斯基",
+        "库什·珍宝",
+        "露丝·莱斯利"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/26997533",
+        "participant_count": 2048,
+        "uri": "douban://douban.com/tv/26997533/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 剧情 / 吉姆·麦凯 / 克里斯汀·芭伦斯基 库什·珍宝",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26997533/",
+      "release_date": "03.04",
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2515458639.jpg",
+        "width": 680,
+        "shape": "rectangle",
+        "height": 1000
+      },
+      "uri": "douban://douban.com/tv/26997533",
+      "subtype": "",
+      "directors": [
+        "吉姆·麦凯"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    },
+    {
+      "original_price": null,
+      "rating": {
+        "count": 3189,
+        "max": 10,
+        "value": 9.3
+      },
+      "actions": [],
+      "year": "2018",
+      "card_subtitle": "2018 / 美国 / 喜剧 / 迈克·乔吉 / 托马斯·米德蒂奇 马丁·斯塔尔",
+      "recommend_comment": "硅谷没了TJ就像奶茶没了糖 —— 蒸気少女的短评",
+      "id": "27055699",
+      "title": "硅谷 第五季",
+      "label": null,
+      "actors": [
+        "托马斯·米德蒂奇",
+        "马丁·斯塔尔",
+        "库梅尔·南贾尼"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/27055699",
+        "participant_count": 1048,
+        "uri": "douban://douban.com/tv/27055699/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 喜剧 / 迈克·乔吉 / 托马斯·米德蒂奇 马丁·斯塔尔",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/27055699/",
+      "release_date": "03.25",
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2518967240.jpg",
+        "width": 4050,
+        "shape": "rectangle",
+        "height": 6000
+      },
+      "uri": "douban://douban.com/tv/27055699",
+      "subtype": "",
+      "directors": [
+        "迈克·乔吉"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    },
+    {
+      "original_price": null,
+      "rating": {
+        "count": 77063,
+        "max": 10,
+        "value": 8.8
+      },
+      "actions": [],
+      "year": "2017",
+      "card_subtitle": "2017 / 美国 / 剧情 喜剧 / 埃米·谢尔曼-帕拉迪诺 丹尼尔·帕拉迪诺 斯科特·埃利斯 / 瑞秋·布罗斯纳安 艾利克斯·布诺斯町",
+      "recommend_comment": "巨婴渣男请三秒原地爆炸🙂女主不要太美，太贴心 —— SeanLeelive的短评",
+      "id": "26813221",
+      "title": "了不起的麦瑟尔夫人 第一季",
+      "label": null,
+      "actors": [
+        "瑞秋·布罗斯纳安",
+        "艾利克斯·布诺斯町",
+        "玛琳·辛科"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/26813221",
+        "participant_count": 4959,
+        "uri": "douban://douban.com/tv/26813221/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 剧情 喜剧 / 埃米·谢尔曼-帕拉迪诺 / 瑞秋·布罗斯纳安 艾利克斯·布诺斯町",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26813221/",
+      "release_date": "03.16",
+      "cover": {
+        "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2501654012.jpg",
+        "width": 2000,
+        "shape": "rectangle",
+        "height": 3000
+      },
+      "uri": "douban://douban.com/tv/26813221",
+      "subtype": "",
+      "directors": [
+        "埃米·谢尔曼-帕拉迪诺"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    },
+    {
+      "original_price": null,
+      "rating": {
+        "count": 3795,
+        "max": 10,
+        "value": 8.1
+      },
+      "actions": [],
+      "year": "2018",
+      "card_subtitle": "2018 / 美国 / 剧情 恐怖 / 蒂姆·米兰特斯 爱德华·贝尔格 塞尔吉奥·米米卡-戈赞 / 杰瑞德·哈里斯 托比亚斯·门基斯",
+      "recommend_comment": "看过原著小说的表示恶灵是真实存在的怪物，并不是幻觉 —— BBH的短评",
+      "id": "24722767",
+      "title": "极地恶灵 第一季",
+      "label": null,
+      "actors": [
+        "杰瑞德·哈里斯",
+        "托比亚斯·门基斯",
+        "塞伦·希德"
+      ],
+      "type": "tv",
+      "forum_info": {
+        "id": "tv/24722767",
+        "participant_count": 740,
+        "uri": "douban://douban.com/tv/24722767/forum_topics"
+      },
+      "description": "",
+      "has_linewatch": false,
+      "price": null,
+      "date": null,
+      "info": "美国 / 剧情 恐怖 / 蒂姆·米兰特斯 / 杰瑞德·哈里斯 托比亚斯·门基斯",
+      "url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/24722767/",
+      "release_date": "03.26",
+      "cover": {
+        "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2517658627.jpg",
+        "width": 2080,
+        "shape": "rectangle",
+        "height": 3081
+      },
+      "uri": "douban://douban.com/tv/24722767",
+      "subtype": "",
+      "directors": [
+        "蒂姆·米兰特斯"
+      ],
+      "reviewer_name": "",
+      "null_rating_reason": ""
+    }
+  ],
+  "total": 1089,
+  "subject_collection": {
+    "subject_count": 1089,
+    "description": "",
+    "url": "https://m.douban.com/app_topic/tv_american",
+    "uri": "douban://douban.com/subject_collection/tv_american",
+    "cover_url": "",
+    "show_filter_playable": true,
+    "id": "tv_american",
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/tv_american/",
+    "display": {
+      "layout": "list"
+    },
+    "name": "近期热门美剧"
+  }
+}
